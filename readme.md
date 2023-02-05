@@ -12,7 +12,7 @@
 | 三井住友银行(中国) | 1536.85       | Y    | Y    | Y    | Y    | https://www.smbc.co.jp/global/location_oversea/china/index.html             |
 | 瑞穗银行(中国)   | 1464.52       | Y    | Y    | Y    | Y    | https://www.mizuhogroup.com/asia-pacific/china/cn/about/news                |
 | 南洋商业银行(中国) | 1429.51       | Y    | Y    | Y    | Y    | https://www.ncbchina.cn/website/ncb-zh/view/main/main.html                  |
-| 星展银行(中国)   | 1344.68       |      | Y    | Y    | Y    | https://www.dbs.com/china/sc/investors/default.page                         |
+| 星展银行(中国)   | 1344.68       | Y    | Y    | Y    | Y    | https://www.dbs.com/china/sc/investors/default.page                         |
 | 恒生银行(中国)   | 1194.05       | Y    | Y    | Y    | Y    | https://www.hangseng.com.cn/1/2/about-us-chi/results-announcement           |
 | 富邦华一银行     | 1165.77       | Y    | Y    | Y    | Y    | https://www.fubonchina.com/4.3.1.php                                        |
 | 大华银行(中国)   | 804.88        | Y    | Y    | Y    | Y    | https://www.uobchina.com.cn/aboutus/annual_report.page?                     |
